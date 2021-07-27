@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+Create a Web Application Using create-react-app, which makes an API call and fetches data, Get User button.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
